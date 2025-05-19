@@ -1,3 +1,0 @@
-# Home Assistant Add-on: echocat's Demo
-
-...

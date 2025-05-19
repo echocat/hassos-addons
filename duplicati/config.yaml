@@ -1,6 +1,6 @@
 ---
 name: Duplicati
-version: 1/merge
+version: pr-1
 slug: duplicati
 description: Zero-trust backup from any operating system to any destination that you can manage from anywhere.
 url: https://github.com/echocat/hassos-addon-duplicati
