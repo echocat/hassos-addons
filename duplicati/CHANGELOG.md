@@ -1,6 +1,6 @@
 ## What's Changed
-* Update to v2.1.0.119_canary_2025-05-29 by @blaubaer in https://github.com/echocat/hassos-addon-duplicati/pull/6
-* Bump github.com/tdewolff/minify/v2 from 2.23.5 to 2.23.6 by @dependabot in https://github.com/echocat/hassos-addon-duplicati/pull/4
-* Bump github.com/tdewolff/minify/v2 from 2.23.6 to 2.23.8 by @dependabot in https://github.com/echocat/hassos-addon-duplicati/pull/5
+* Update to v2.1.0.120_canary_2025-06-24 by @blaubaer in https://github.com/echocat/hassos-addon-duplicati/pull/8
+* Bump github.com/mholt/archives from 0.1.2 to 0.1.3 by @dependabot in https://github.com/echocat/hassos-addon-duplicati/pull/7
 
-**Full Changelog**: https://github.com/echocat/hassos-addon-duplicati/compare/v0.1.2...v0.1.3
+
+**Full Changelog**: https://github.com/echocat/hassos-addon-duplicati/compare/v0.1.3...v0.1.4
